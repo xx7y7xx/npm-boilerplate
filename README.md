@@ -40,17 +40,6 @@ Ensure packages are installed with correct version numbers by running:
   npm install --save airbnb-npm-boilerplate react@>=#.## react-dom@>=#.## react-addons-shallow-compare@>=#.##
   ```
 
-## Maintaining
-
-### First release
-
-- put `0.0.0` in `version` section of `package.json`.
-- run `npm run version:minor`
-
-### Next release
-
-- run `npm run version:patch` for patch release.
-
 [package-url]: https://npmjs.org/package/airbnb-npm-boilerplate
 [npm-version-svg]: http://versionbadg.es/xxd3vin/airbnb-npm-boilerplate.svg
 [travis-svg]: https://travis-ci.org/xxd3vin/airbnb-npm-boilerplate.svg
