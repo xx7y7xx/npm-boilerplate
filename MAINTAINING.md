@@ -3,6 +3,7 @@
 ## First release
 
 - Modify `package.json`, set `version` to `0.0.0`
+- Modify `CHANGELOG.md`, remove `TODO` line
 - run `npm run version:minor` to bump version from v0.0.0 to v0.1.0
 
 ## Next release
